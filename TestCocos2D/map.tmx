@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="12" height="21" tilewidth="90" tileheight="90" infinite="0" nextlayerid="8" nextobjectid="4">
+ <tileset firstgid="1" source="assets/images/block.tsx"/>
+ <tileset firstgid="2" source="assets/images/arrowSign.tsx"/>
+ <tileset firstgid="3" source="assets/images/bush.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="12" height="21">
+  <data encoding="csv">
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,2,1,1,1,1,1,2,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,2,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1
+</data>
+ </layer>
+ <objectgroup id="5" name="obj1">
+  <object id="1" x="271.053" y="618.421" width="100.526" height="118.947"/>
+ </objectgroup>
+ <objectgroup id="6" name="obj2">
+  <object id="2" x="823.684" y="634.211" width="90" height="90"/>
+ </objectgroup>
+ <objectgroup id="7" name="obj3">
+  <object id="3" x="439.474" y="910.526" width="116.316" height="90"/>
+ </objectgroup>
+</map>
