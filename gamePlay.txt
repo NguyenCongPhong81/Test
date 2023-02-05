@@ -1,0 +1,7 @@
+- Ý tưởng: Trò chơi có thể loại game phiêu lưu kết hợp với trí tuệ
+- Game play: Người chơi sẽ sử dụng các phím được tích hợp sẵn để điều khiển nhân vật đến các địa hình cho trước, khi nhân vật đến với địa hình thử thách(Sign hình mũi tên) 
+sẽ hiện ra 1 câu đố và yêu cầu người chơi chọn đáp án, nếu người chơi trả lời đúng thử thách sẽ được vượt qua và tiếp tục đến các thử thách khác. Mỗi màn chơi sẽ có số 
+lượng thử thách tăng dần, cũng như độ khó của các câu đố cũng tăng lên
+
+- Điểm giống với bài 1: Các thử thách sẽ được đặt cố định trên bản đồ với tọa độ dựa vào tọa độ gốc O, sau đó các tọa độ sẽ phụ thuộc vào O để set vị trí cụ thể trên bản đồ.
+ 
